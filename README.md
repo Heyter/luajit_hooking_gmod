@@ -2,3 +2,6 @@
 Hooking luajit api (lual_loadbufferx)
 
 - Headers C: https://github.com/Facepunch/gmod-module-base/tree/development
+
+Tested on windows.
+Supporting: Windows/Linux/MacOS.
